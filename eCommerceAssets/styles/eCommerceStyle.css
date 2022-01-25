@@ -1,12 +1,12 @@
 @charset "utf-8";
 /* Global Styles */
 a:hover {
-	color: rgba(255,255,255,1.00);
+	color: rgba(13,233,233,1.00);
 }
 /*header*/
 header {
 	font-family: 'Montserrat', sans-serif;
-	color: rgba(146,146,146,1.00);
+	color: rgba(28,157,130,1.00);
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;
@@ -19,7 +19,7 @@ header {
 	width: 139px;
 	text-align: center;
 	color: rgba(255,255,255,1.00);
-	background-color: rgba(190,190,190,1.00);
+	background-color: rgba(152,135,19,1.00);
 }
 /* div for Links in header */
 #headerLinks {
@@ -33,7 +33,7 @@ header {
 /* Links in header */
 #headerLinks a {
 	text-decoration: none;
-	color: rgba(146,146,146,1.00);
+	color: rgba(199,96,96,1.00);
 	padding-left: 66px;
 	font-size: 14px;
 }
